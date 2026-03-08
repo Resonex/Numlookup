@@ -1,0 +1,7 @@
+{
+  "name": "nigeria-carrier-api",
+  "version": "1.0.0",
+  "description": "Nigerian phone carrier lookup API",
+  "type": "module",
+  "private": true
+}
